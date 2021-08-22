@@ -18,3 +18,7 @@ Because I downloaded most of these from sites like Imgur and /wg/, I have no way
 
 [Wallpaper-perfecto](https://www.genbeta.com/tag/wallpaper-perfecto)
 
+[Pixel True](https://www.pixeltrue.com/scenic-illustrations#download)
+
+[adi1090x](https://github.com/adi1090x/files.git)
+
