@@ -8,12 +8,6 @@ Possibly the most common question I get from viewers of my [Youtube channel](htt
 
 I find wallpapers in a number of different locations but good places to check out include [Imgur](http://imgur.com) and [/wg/](http://4chan.org/wg).  Some of the wallpapers were probably included in default wallpaper packages from various Linux distributions that I have installed over the years.
 
-## Ownership
-
-Because I downloaded most of these from sites like Imgur and /wg/, I have no way of knowing if there is a copyright on these images. If you find an image hosted in this repository that is yours and of limited use, please let me know and I will remove it.
-
-## Links to sites
-
 [Desktopography](https://desktopography.net/)
 
 [Wallpaper-perfecto](https://www.genbeta.com/tag/wallpaper-perfecto)
@@ -22,3 +16,6 @@ Because I downloaded most of these from sites like Imgur and /wg/, I have no way
 
 [adi1090x](https://github.com/adi1090x/files.git)
 
+## Ownership
+
+Because I downloaded most of these from sites like Imgur and /wg/, I have no way of knowing if there is a copyright on these images. If you find an image hosted in this repository that is yours and of limited use, please let me know and I will remove it.
